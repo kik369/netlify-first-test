@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1bce32e-7f81-486f-ad1e-d5b9abb715bf/deploy-status)](https://app.netlify.com/sites/suspicious-shaw-261388/deploys)
